@@ -5,7 +5,6 @@ import ApiAlert from "@/components/api-alert";
 import Heading from "@/components/Heading";
 import { Button } from "@/components/ui/button";
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
-import { ImageUpload } from "@/components/ui/image-upload";
 import { Input } from "@/components/ui/input";
 import { Separator } from "@/components/ui/separator";
 import { useOrigin } from "@/hooks/use-origin";
